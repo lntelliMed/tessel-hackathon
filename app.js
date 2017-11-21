@@ -1,6 +1,15 @@
 // Any copyright is dedicated to the Public Domain.
 // http://creativecommons.org/publicdomain/zero/1.0/
 
+/*
+Team:
+Tim LaTorre
+Sierra Saita
+Elizabeth Farrier
+Han Hung
+Sam Alsmadi
+
+*/
 /*********************************************
 This servo module demo turns the servo around
 1/10 of its full rotation  every 500ms, then
